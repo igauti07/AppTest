@@ -1,0 +1,15 @@
+/Users/goutham/Projects/AppTest/ConsoleApp/ConsoleApp/bin/Debug/net7.0/ConsoleApp
+/Users/goutham/Projects/AppTest/ConsoleApp/ConsoleApp/bin/Debug/net7.0/ConsoleApp.deps.json
+/Users/goutham/Projects/AppTest/ConsoleApp/ConsoleApp/bin/Debug/net7.0/ConsoleApp.runtimeconfig.json
+/Users/goutham/Projects/AppTest/ConsoleApp/ConsoleApp/bin/Debug/net7.0/ConsoleApp.dll
+/Users/goutham/Projects/AppTest/ConsoleApp/ConsoleApp/bin/Debug/net7.0/ConsoleApp.pdb
+/Users/goutham/Projects/AppTest/ConsoleApp/ConsoleApp/obj/Debug/net7.0/ConsoleApp.csproj.AssemblyReference.cache
+/Users/goutham/Projects/AppTest/ConsoleApp/ConsoleApp/obj/Debug/net7.0/ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/goutham/Projects/AppTest/ConsoleApp/ConsoleApp/obj/Debug/net7.0/ConsoleApp.AssemblyInfoInputs.cache
+/Users/goutham/Projects/AppTest/ConsoleApp/ConsoleApp/obj/Debug/net7.0/ConsoleApp.AssemblyInfo.cs
+/Users/goutham/Projects/AppTest/ConsoleApp/ConsoleApp/obj/Debug/net7.0/ConsoleApp.csproj.CoreCompileInputs.cache
+/Users/goutham/Projects/AppTest/ConsoleApp/ConsoleApp/obj/Debug/net7.0/ConsoleApp.dll
+/Users/goutham/Projects/AppTest/ConsoleApp/ConsoleApp/obj/Debug/net7.0/refint/ConsoleApp.dll
+/Users/goutham/Projects/AppTest/ConsoleApp/ConsoleApp/obj/Debug/net7.0/ConsoleApp.pdb
+/Users/goutham/Projects/AppTest/ConsoleApp/ConsoleApp/obj/Debug/net7.0/ConsoleApp.genruntimeconfig.cache
+/Users/goutham/Projects/AppTest/ConsoleApp/ConsoleApp/obj/Debug/net7.0/ref/ConsoleApp.dll
