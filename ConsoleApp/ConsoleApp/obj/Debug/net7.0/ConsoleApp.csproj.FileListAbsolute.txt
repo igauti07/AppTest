@@ -13,3 +13,5 @@
 /Users/goutham/Projects/AppTest/ConsoleApp/ConsoleApp/obj/Debug/net7.0/ConsoleApp.pdb
 /Users/goutham/Projects/AppTest/ConsoleApp/ConsoleApp/obj/Debug/net7.0/ConsoleApp.genruntimeconfig.cache
 /Users/goutham/Projects/AppTest/ConsoleApp/ConsoleApp/obj/Debug/net7.0/ref/ConsoleApp.dll
+/Users/goutham/Projects/AppTest/ConsoleApp/ConsoleApp/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/goutham/Projects/AppTest/ConsoleApp/ConsoleApp/obj/Debug/net7.0/ConsoleApp.csproj.CopyComplete
